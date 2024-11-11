@@ -15,7 +15,7 @@ Please refer to `cma_group_submit.sh` and `guild.yml` for running multiple insta
 ## Acknowledge 
 We thank Jaehan Bae, Xuening Bai, Pablo Ben{\'\i}tez-Llambay, Shengze Cai, Miles Cranmer, Bin Dong, Scott Field, Jeffrey Fung, Xiaotian Gao, Jiequn Han, Pinghui Huang, Pengzhan Jin, Xiaowei Jin, Hui Li, Tie-Yan Liu, Zhiping Mao, Chris Ormel, Wenlei Shi, Karun Thanjavur, Yiwei Wang, Yinhao Wu, Zhenghao Xu, Minhao Zhang, Wei Zhu for help and useful discussions in the project.
 
-This project heavily relies on Guild.ai for experiment tracking. We sincerely thank the Guild.ai team for publishing such wonderful software and providing maintenance.
+This project heavily relies on [Guild.ai](https://guild.ai) for experiment tracking. We sincerely thank the Guild.ai team for publishing such wonderful software and providing maintenance.
 
 S.M. and R.D. are supported by the Natural Sciences and Engineering Research Council of Canada (NSERC) and the Alfred P. Sloan Foundation. S.M. and R.D. acknowledge the support of the Government of Canada's New Frontiers in Research Fund (NFRF), [NFRFE-2022-00159].
 This research was enabled in part by support provided by the Digital Research Alliance of Canada \url{alliance.can.ca}.
